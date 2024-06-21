@@ -1,5 +1,5 @@
 {
-    "id": "obsidian-toggle-sidebars",
+    "id": "toggle-sidebars",
     "name": "Toggle Sidebars",
     "version": "1.0.0",
     "minAppVersion": "0.9.12",
