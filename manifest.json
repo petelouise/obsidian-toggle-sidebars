@@ -6,5 +6,6 @@
     "description": "Toggle both sidebars in Obsidian with one hotkey",
     "author": "petelouise",
     "authorUrl": "https://github.com/petelouise",
-    "isDesktopOnly": true
+    "isDesktopOnly": true,
+    "fundingUrl": "https://github.com/sponsors/petelouise"
 }
